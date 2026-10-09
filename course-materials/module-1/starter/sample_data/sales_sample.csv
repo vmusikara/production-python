@@ -1,0 +1,9 @@
+store_id,date,item,quantity,unit_price
+S001,2026-07-01,widget-a,12,9.99
+S001,2026-07-01,widget-b,4,19.99
+S002,2026-07-01,widget-a,7,9.99
+S002,2026-07-01,widget-c,15,4.50
+S001,2026-07-02,widget-a,9,9.99
+S003,2026-07-01,widget-b,2,19.99
+S003,2026-07-01,widget-c,20,4.50
+S002,2026-07-02,widget-b,6,19.99
